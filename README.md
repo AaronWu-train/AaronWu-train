@@ -1,4 +1,9 @@
 ### Hi there, I'm Aaron Wu! 🚆
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AaronWu-train/AaronWu-train/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AaronWu-train/AaronWu-train/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AaronWu-train/AaronWu-train/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <!--
 **AaronWu-train/AaronWu-train** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,13 +35,6 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=AaronWu-train&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 🟩 Recent Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AaronWu-train/AaronWu-train/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AaronWu-train/AaronWu-train/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AaronWu-train/AaronWu-train/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AaronWu-train&icon=0&color=0)](https://visitcount.itsvg.in)
